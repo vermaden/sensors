@@ -10,6 +10,8 @@
 
 The **sensors(8)** is script that displays temperatures and other power related information on FreeBSD.
 
+Its inspired by the **sensors(8)** command from the **lm-sensors** Linux package.
+
 ### Instalation
 
 ```
